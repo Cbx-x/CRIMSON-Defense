@@ -1,0 +1,36 @@
+body {
+    font-family: 'Space Grotesk', sans-serif;
+    background-color: #000000;
+    color: #d4d4d8;
+    /* zinc-300 */
+    overflow-y: auto;
+    /* Allow vertical scrolling */
+    overflow-x: hidden;
+    /* Prevent horizontal scrolling */
+}
+
+/* Global Header Style */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Rajdhani', sans-serif;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+}
+
+/* Hide Scrollbar Globally but allow scrolling mechanism */
+html {
+    scrollbar-width: none;
+    /* Firefox */
+    -ms-overflow-style: none;
+    /* IE and Edge */
+}
+
+body::-webkit-scrollbar,
+*::-webkit-scrollbar {
+    display: none;
+    /* Chrome, Safari and Opera */
+}

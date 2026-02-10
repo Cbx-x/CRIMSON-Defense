@@ -1,0 +1,5 @@
+{
+  "name": "Crimson Defense",
+  "description": "A centralized security dashboard for monitoring Android Mobile Intrusion Detection Systems (MIDS). visualizes real-time threats, network anomalies, and malicious app detections across a device fleet.",
+  "requestFramePermissions": []
+}
