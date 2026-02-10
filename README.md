@@ -1,4 +1,4 @@
-🤖 Meet CRIMSON Defense – Your AI Security Guardian for Android
+# 🤖 Meet CRIMSON Defense – Your AI Security Guardian for Android
 
 Imagine a digital humanoid guardian living inside your Android device — constantly watching, learning, and protecting you.
 That guardian is CRIMSON Defense, an AI-powered Mobile Intrusion Detection System (MIDS).
